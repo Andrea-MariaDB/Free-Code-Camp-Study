@@ -4,7 +4,7 @@ This repo contains my solutions for the Full Stack Web Development Certification
 
 ## Contents
 
-### Front End Development Certification
+### [Front End Development Certification](Front_End_Development_Certification/)
 -------------
 No  | Course
 ------------- | -------------
@@ -16,7 +16,7 @@ No  | Course
 6. | WIP...
 
 ### License
-This repo is licensed under [the MIT License](LICENSE).
+Project under the [BSD LICENSE](LICENSE)
 
 ## Credits
 
