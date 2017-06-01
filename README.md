@@ -21,4 +21,4 @@ Project under the [BSD LICENSE](LICENSE)
 
 ## Credits
 
-Esteban Rocha
+[Esteban Rocha](https://github.com/Esteban-Rocha)
